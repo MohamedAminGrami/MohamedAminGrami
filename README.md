@@ -23,4 +23,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amin-grami-a40844294) 
 
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
+
 </div>
