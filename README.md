@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 I'm currently working on Web3 project
 
@@ -24,4 +25,5 @@ I'm currently working on Web3 project
 ---
 [![](https://visitcount.itsvg.in/api?id=MohamedAminGrami&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
