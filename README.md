@@ -1,11 +1,4 @@
 <div align="center">
-<br/>
-  
-##💫 About Me:
-I'm currently working on Web3 project
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amin-grami-a40844294) 
 
 # 💻 Tech Stack:
