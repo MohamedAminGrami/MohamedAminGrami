@@ -23,5 +23,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amin-grami-a40844294) 
 
-<img width="1000" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flegnuefb30fdf1owkh98.gif" alt="Snake Github">
+<img width="1000" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flegnuefb30fdf1owkh98.gif](https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="Snake Github">
 </div>
