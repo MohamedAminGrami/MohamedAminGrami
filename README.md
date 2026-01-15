@@ -58,21 +58,12 @@
 
 * 🛒 **E-Commerce Web App** – MERN stack, cart system, order management
 * 🧠 **Smart Educational Platform** – AI-assisted evaluation & automation
-* 🗺️ **GeoGuesser Replica** – Map-based game with scalable architecture
-* 🧹 **PC Analyzer Tool** – File usage analysis & cleanup assistant
+* 🗺️ **MindMap-Generator** – MindMap generator using AI
 
 > More projects available in my repositories 👇
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAminGrami&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAminGrami&layout=compact&theme=tokyonight" height="160" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
