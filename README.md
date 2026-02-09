@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)]((https://www.linkedin.com/in/mohamed-amin-grami/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mohamed-amin-grami/)
 [![Email](https://img.shields.io/badge/Email-333?style=for-the-badge\&logo=gmail)](mailto:mohamedgrami.b@gmail.com)
 
 </div>
